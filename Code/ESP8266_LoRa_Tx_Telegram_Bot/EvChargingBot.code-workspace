@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "ESP8266_LoRa_Rx_Relay_Contoller",
+			"path": "../ESP8266_LoRa_Rx_Relay_Contoller"
+		}
+	],
+	"settings": {}
+}
